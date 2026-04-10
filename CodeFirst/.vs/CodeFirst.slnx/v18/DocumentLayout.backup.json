@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\C#\\L\u00FD Thuy\u1EBFt\\BTC_Sharp_CodeFirst\\CodeFirst\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B2B962-3698-1BD2-5AA7-12B2CFB8C049}|CodeFirst\\CodeFirst.csproj|d:\\c#\\l\u00FD thuy\u1EBFt\\btc_sharp_codefirst\\codefirst\\codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B2B962-3698-1BD2-5AA7-12B2CFB8C049}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B2B962-3698-1BD2-5AA7-12B2CFB8C049}|CodeFirst\\CodeFirst.csproj|d:\\c#\\l\u00FD thuy\u1EBFt\\btc_sharp_codefirst\\codefirst\\codefirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B2B962-3698-1BD2-5AA7-12B2CFB8C049}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\C#\\L\u00FD Thuy\u1EBFt\\BTC_Sharp_CodeFirst\\CodeFirst\\CodeFirst\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Product.cs",
+              "ToolTip": "D:\\C#\\L\u00FD Thuy\u1EBFt\\BTC_Sharp_CodeFirst\\CodeFirst\\CodeFirst\\Models\\Product.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:37:33.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\C#\\L\u00FD Thuy\u1EBFt\\BTC_Sharp_CodeFirst\\CodeFirst\\CodeFirst\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Category.cs",
+              "ToolTip": "D:\\C#\\L\u00FD Thuy\u1EBFt\\BTC_Sharp_CodeFirst\\CodeFirst\\CodeFirst\\Models\\Category.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:35:40.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
